@@ -2,7 +2,7 @@
 
 一份精心整理的、对开发者、设计师和普通用户都非常有用的 AI 工具清单。欢迎大家一起贡献，让这个列表变得更棒！
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/your-username/awesome-ai-tools/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/a317634186/awesome-ai-tools/pulls)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## 目录
